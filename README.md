@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Jiarui Liu, a computer science master student at CMU. I am actively seeking PhD positions in 2025 Fall. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
+I am Jiarui Liu, a PhD student at CMU LTI. Check my personal homepage for more details about me: [https://jiarui-liu.github.io](https://jiarui-liu.github.io).
 
 <!-- [<div align=center>![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jerry-Liu-dot&theme=aura_dark&hide=stars,issues&count_private=true&show_icons=true)](https://github.Jerry-Liu-dot) -->
 
